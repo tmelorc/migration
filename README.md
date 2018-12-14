@@ -33,6 +33,4 @@ Run the following files with `python <file.py>`
 - `plot_dendrogram.py`
 - `plot_VR.py` (not working yet)
 
-## Global migration
-
-(...)
+## [Global migration](https://github.com/tmelorc/migration/tree/master/global)
