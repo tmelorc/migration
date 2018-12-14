@@ -14,7 +14,7 @@ Raw data file downloaded from
 
 **Execution order**
 
-prepare_data.py
-compute_ultrametric.py
-plot_dendrogram.py
-plot_VR.py (not working yet)
+- `prepare_data.py`
+- `compute_ultrametric.py`
+- `plot_dendrogram.py`
+- `plot_VR.py` (not working yet)
