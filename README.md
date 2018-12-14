@@ -10,7 +10,7 @@
 
 ##### Folders
 
-You should have the following (empty) folders in your main folder:
+You should have the following (possibly empty) folders in your main folder:
 
 - `migration_matrices`
 - `dendrograms`
