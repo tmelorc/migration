@@ -2,6 +2,10 @@
 
 (...)
 
+## USA migration
+
+(...)
+
 #### Required folders and files
 
 ##### Folders
@@ -28,3 +32,7 @@ Run the following files with `python <file.py>`
 - `compute_ultrametric.py`
 - `plot_dendrogram.py`
 - `plot_VR.py` (not working yet)
+
+## Global migration
+
+(...)
