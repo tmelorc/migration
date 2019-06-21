@@ -20,6 +20,7 @@ You should have the following (possibly empty) folders in your main folder:
 
 You should have the following files in your main folder:
 
+-  `my_shortest_path.so`
 - `Net_Gross_US.txt` from [census.gov](https://www2.census.gov/programs-surveys/demo/tables/geographic-mobility/2015/county-to-county-migration-2011-2015/county-to-county-migration-flows/Net_Gross_US.txt) (~100Mb)
 - `prepare_data_fields.csv`
 - `prepare_data_states_num_counties.csv`
