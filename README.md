@@ -29,7 +29,7 @@ You should have the following files in your main folder:
 Run the following files with `python <file.py>`
 
 - `prepare_data.py`
-- `compute_ultrametric.py`
+- `compute_ultrametric_v2.py`
 - `plot_dendrogram.py`
 - `plot_VR.py` (not working yet)
 
